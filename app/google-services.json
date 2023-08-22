@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635901901688",
+    "project_id": "demolecture-b796c",
+    "storage_bucket": "demolecture-b796c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635901901688:android:072ffe7926637e0c65268d",
+        "android_client_info": {
+          "package_name": "com.app.demolecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635901901688-q94bg0q6a8bgvc4fbp5qgem6bij0ct3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfeDXWcfUJOYCo2EtKctU1GKv_hVfEZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635901901688-q94bg0q6a8bgvc4fbp5qgem6bij0ct3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
